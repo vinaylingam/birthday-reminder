@@ -3,7 +3,7 @@ Telegram bot to remind birthdays or any other days
 
 
 ## KEYS.Py
-This filed is ignored, since it contains confidential information that can compromise my bot.
+This file is ignored in `.gitignore`, since it contains confidential information that can compromise my bot.
 
 The structure of **KEYS.py** should contain following lines if u want to run bot at your local and to use google firebase database.
 
